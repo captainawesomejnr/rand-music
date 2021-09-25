@@ -108,7 +108,7 @@ input.onGesture(Gesture.Shake, function () {
             `)
     }
     basic.clearScreen()
-    place = 2
+    place = randint(1, 3)
     if (place == 1) {
         basic.showLeds(`
             . . # . .

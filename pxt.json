@@ -1,5 +1,5 @@
 {
-    "name": "music",
+    "name": "random music",
     "description": "",
     "dependencies": {
         "core": "*",
